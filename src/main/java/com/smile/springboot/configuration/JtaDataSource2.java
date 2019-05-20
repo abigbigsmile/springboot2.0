@@ -17,7 +17,7 @@ import java.sql.SQLException;
 @MapperScan(basePackages = {"com.smile.springboot.mapper2"}, sqlSessionTemplateRef = "item2SqlSessionTemplate")
 public class JtaDataSource2 {
 
-    @Bean(name = "jtaDatasource2")
+    @Bean(name = "jtaDatasource2", initMethod = "init", destroyMethod = "close")
     public DataSource jtaDatasource2(DBproperties2 dBproperties2) throws SQLException {
         MysqlXADataSource mysqlXaDataSource = new MysqlXADataSource();
         mysqlXaDataSource.setUrl(dBproperties2.getUrl());

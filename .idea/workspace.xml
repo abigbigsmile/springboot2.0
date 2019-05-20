@@ -2,11 +2,119 @@
 <project version="4">
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
-      <artifact name="springboot2.0_demo:jar" />
+      <artifact name="springboot2.0_demo:war exploded2" />
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2415e09b-3cbe-425e-afc6-eb8047aef440" name="Default Changelist" comment="" />
+    <list default="true" id="2415e09b-3cbe-425e-afc6-eb8047aef440" name="Default Changelist" comment="Complete the Springboot teaching of itmayiedu">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/springboot2_0_demo_war_exploded2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reference/SpringBoot教学文档.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reference/springboot.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transaction-logs/tmlog10.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/springboot2_0_demo_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/HikariCP-2.7.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/aspectjweaver-1.8.13.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/atomikos-util-4.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/classmate-1.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/ecj-3.12.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/hibernate-validator-6.0.7.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jackson-core-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jackson-databind-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jackson-datatype-jdk8-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jackson-datatype-jsr310-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jackson-module-parameter-names-2.9.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/javax.transaction-api-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jsqlparser-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/jul-to-slf4j-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/log4j-api-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/log4j-to-slf4j-2.10.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/lombok-1.16.20.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/mybatis-3.4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/mybatis-spring-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/mybatis-spring-boot-autoconfigure-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/mybatis-spring-boot-starter-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/mysql-connector-java-5.1.45.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/pagehelper-5.1.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/pagehelper-spring-boot-autoconfigure-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/pagehelper-spring-boot-starter-1.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/slf4j-api-1.7.25.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/snakeyaml-1.19.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-aop-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-beans-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-autoconfigure-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-devtools-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-starter-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-starter-aop-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-starter-jdbc-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-starter-json-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-starter-jta-atomikos-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-starter-logging-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-starter-tomcat-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-boot-starter-web-2.0.0.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-context-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-core-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-expression-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-jcl-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-jdbc-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-tx-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-web-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/spring-webmvc-5.0.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/springboot2.0_demo.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/tomcat-embed-core-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/tomcat-embed-el-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/tomcat-embed-jasper-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/tomcat-embed-websocket-8.5.28.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/transaction-logs/tmlog.lck" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/transaction-logs/tmlog1.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/transactions-4.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/transactions-api-4.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/transactions-jdbc-4.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/transactions-jms-4.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/transactions-jta-4.0.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/springboot2_0_demo_jar/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/output/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/smile/springboot/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/smile/springboot/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/MybatisApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/MybatisApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/aop/LogAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/aop/LogAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/configuration/DBProperties1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/configuration/DBProperties1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/configuration/DBproperties2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/configuration/DBproperties2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/configuration/JtaDataSource1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/configuration/JtaDataSource1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/configuration/JtaDataSource2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/configuration/JtaDataSource2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/ErrorController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/ErrorController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/JspController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/JspController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/MutiDataSourceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/MutiDataSourceController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/exception/JdbcException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/exception/JdbcException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/exception/NotLoginException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/exception/NotLoginException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/exception/NullOrEmptyException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/exception/NullOrEmptyException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/mapper/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/mapper/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/mapper2/UserMapper2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/mapper2/UserMapper2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/model/ErrorMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/model/ErrorMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/model/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/model/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/service/TestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/service/TestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smile/springboot/service2/UserService2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smile/springboot/service2/UserService2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/output/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/smile/springboot/controller/UserControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/smile/springboot/controller/UserControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/smile/springboot/mapper/UserMapperTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/smile/springboot/mapper/UserMapperTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/smile/springboot/service/UserServiceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/smile/springboot/service/UserServiceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/transaction-logs/tmlog45.log" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,51 +127,14 @@
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/TestController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1839#1840#0" expanded="true" />
-                <element signature="e#1869#1870#0" expanded="true" />
-                <element signature="e#2197#2198#0" expanded="true" />
-                <element signature="e#2228#2229#0" expanded="true" />
-                <element signature="e#2238#2239#0" expanded="true" />
-                <element signature="e#2268#2269#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="21" column="34" selection-end-line="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jsp File" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -75,6 +146,8 @@
       <find>testConfig</find>
       <find>item2</find>
       <find>item1TransactionManager</find>
+      <find>${col</find>
+      <find>jtaDatasource1</find>
     </findStrings>
     <replaceStrings>
       <replace>item2</replace>
@@ -85,10 +158,12 @@
       <dir>C:\Users\Smile\.m2\repository\org\apache\tomcat\embed\tomcat-embed-core\8.5.28\tomcat-embed-core-8.5.28.jar</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/SpringApplication.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/DemoApplication.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/Hello.jsp" />
@@ -114,7 +189,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/mapper2/UserMapper.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/service2/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/TransactionManagerConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/AtomikosDataSource2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/AtomikosDataSource1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/DBproperties2.java" />
@@ -124,21 +198,23 @@
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/testConfig/TransactionManagerConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/DBProperties1.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/MutiDataSourceController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/service2/UserService2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/MybatisApplication.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/smile/springboot/mapper/UserMapperTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/mapper/UserMapper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/smile/springboot/controller/UserControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/smile/springboot/service/UserServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/UserController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/aop/LogAspect.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/smile/springboot/controller/UserControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource2.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/smile/springboot/AdminUIServer.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -159,82 +235,30 @@
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="springboot2.0_demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="springboot2.0_demo Maven Webapp" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
-          <item name="install" type="36feed69:MavenProjectsStructure$PluginNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="450" />
-    <option name="y" value="193" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="357" />
+    <option name="y" value="159" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="springboot2.0_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot2.0_demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot2.0_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot2.0_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot2.0_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot2.0_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot2.0_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot2.0_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot2.0_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot2.0_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot2.0_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot2.0_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot2.0_demo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot2.0_demo" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -247,7 +271,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558267610934" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558358054247" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/output" />
@@ -256,7 +280,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.side.proportion" value="0.25775862" />
     <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
@@ -268,20 +292,22 @@
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\IDEAworkspace\springboot2.0_demo\src\main\resources" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAworkspace\springboot2.0_demo\Reference" />
+      <recent name="D:\IDEAworkspace\springboot2.0_demo\src\main\java\com\smile\springboot\configuration" />
+      <recent name="D:\IDEAworkspace\springboot2.0_demo\src\main\java\com\smile\springboot\testConfig" />
+      <recent name="D:\IDEAworkspace\springboot2.0_demo\src\main\resources\static" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.smile.springboot.mapper2" />
       <recent name="com.smile.springboot.service2" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\IDEAworkspace\springboot2.0_demo\src\main\java\com\smile\springboot\configuration" />
-      <recent name="D:\IDEAworkspace\springboot2.0_demo\src\main\java\com\smile\springboot\testConfig" />
-      <recent name="D:\IDEAworkspace\springboot2.0_demo\src\main\resources\static" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAworkspace\springboot2.0_demo\Reference" />
+      <recent name="D:\IDEAworkspace\springboot2.0_demo\src\main\resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -297,22 +323,6 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.Application">
-    <configuration name="UserControllerTest.findUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springboot2.0_demo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.smile.springboot.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.smile.springboot.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.smile.springboot.controller.UserControllerTest" />
-      <option name="METHOD_NAME" value="findUser" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="UserControllerTest.testConfig" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springboot2.0_demo" />
       <extension name="coverage">
@@ -361,6 +371,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AdminUIServer" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springboot2.0_demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smile.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smile.springboot.AdminUIServer" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="springboot2.0_demo" />
       <extension name="coverage">
@@ -378,21 +401,24 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.UserControllerTest.findUser" />
       <item itemvalue="JUnit.UserControllerTest.testConfig" />
       <item itemvalue="JUnit.UserMapperTest.testGetUserList" />
       <item itemvalue="JUnit.UserServiceTest.testPageHelper" />
       <item itemvalue="Spring Boot.Application" />
+      <item itemvalue="Spring Boot.AdminUIServer" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="Spring Boot.AdminUIServer" />
         <item itemvalue="JUnit.UserServiceTest.testPageHelper" />
         <item itemvalue="JUnit.UserMapperTest.testGetUserList" />
         <item itemvalue="JUnit.UserControllerTest.testConfig" />
-        <item itemvalue="JUnit.UserControllerTest.findUser" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SpringBeansView">
+    <option name="showFilesets" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -423,7 +449,12 @@
       <workItem from="1558226670284" duration="10913000" />
       <workItem from="1558249519785" duration="2243000" />
       <workItem from="1558251885779" duration="4565000" />
-      <workItem from="1558266380819" duration="1221000" />
+      <workItem from="1558266380819" duration="5555000" />
+      <workItem from="1558273983746" duration="886000" />
+      <workItem from="1558315254782" duration="2563000" />
+      <workItem from="1558321867316" duration="637000" />
+      <workItem from="1558348804986" duration="387000" />
+      <workItem from="1558357608497" duration="629000" />
     </task>
     <servers />
   </component>
@@ -460,12 +491,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68653000" />
+    <option name="totallyTimeSpent" value="78089000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24466951" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2228145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -475,24 +506,24 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18418202" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3347779" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23969631" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22668113" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.17334779" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3167028" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.329718" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" weight="0.32936078" />
-      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Spring" order="14" weight="0.329718" />
       <window_info anchor="bottom" id="Problems" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven" order="3" weight="0.32995737" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3065032" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
@@ -503,6 +534,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Complete the Springboot teaching of itmayiedu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete the Springboot teaching of itmayiedu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -521,50 +556,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-webmvc/5.0.4.RELEASE/spring-webmvc-5.0.4.RELEASE.jar!/org/springframework/web/servlet/mvc/method/annotation/ServletInvocableHandlerMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-190">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-starter-parent/2.0.0.RELEASE/spring-boot-starter-parent-2.0.0.RELEASE.pom">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="67" lean-forward="true" selection-start-line="6" selection-start-column="67" selection-end-line="6" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-aop/5.0.4.RELEASE/spring-aop-5.0.4.RELEASE.jar!/org/springframework/aop/aspectj/AbstractAspectJAdvice.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
-          <caret line="429" selection-start-line="429" selection-end-line="429" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/model/ErrorMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-646">
-          <caret line="10" column="6" lean-forward="true" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#718#726#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/service/TestService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#100#101#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application-pro.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -614,16 +605,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/ErrorController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="25" column="19" lean-forward="true" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
@@ -672,30 +653,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="10" column="60" lean-forward="true" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="53" column="42" selection-start-line="53" selection-start-column="42" selection-end-line="53" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/DBProperties1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/service2/UserService2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -738,17 +695,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/MybatisApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="47" lean-forward="true" selection-start-line="2" selection-start-column="47" selection-end-line="2" selection-end-column="47" />
-          <folding>
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/smile/springboot/mapper/UserMapperTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -765,20 +711,6 @@
           <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/smile/springboot/controller/UserControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#699#700#0" expanded="true" />
-            <element signature="e#2502#2503#0" expanded="true" />
-            <element signature="e#2538#2539#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -817,20 +749,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="38" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/aop/LogAspect.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="772">
@@ -841,24 +759,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="21" column="34" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+        <state relative-caret-position="373">
+          <caret line="80" column="23" lean-forward="true" selection-start-line="80" selection-start-column="23" selection-end-line="80" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1839#1840#0" expanded="true" />
@@ -871,17 +775,135 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/smile/springboot/controller/UserControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="45" column="36" lean-forward="true" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/DBProperties1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/mysql/mysql-connector-java/5.1.45/mysql-connector-java-5.1.45.jar!/com/mysql/jdbc/jdbc2/optional/MysqlXADataSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="19" column="78" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/MybatisApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-beans/5.0.4.RELEASE/spring-beans-5.0.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="38" lean-forward="true" selection-start-line="36" selection-start-column="38" selection-end-line="36" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/controller/ErrorController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="44" column="15" lean-forward="true" selection-start-line="44" selection-start-column="15" selection-end-line="44" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/AdminUIServer.java" />
+    <entry file="file://$USER_HOME$/.m2/repository/org/springframework/boot/spring-boot-starter-parent/2.0.0.RELEASE/spring-boot-starter-parent-2.0.0.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="217" column="14" selection-start-line="217" selection-start-column="14" selection-end-line="217" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-1080" />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smile/springboot/configuration/JtaDataSource2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="25" column="63" lean-forward="true" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
-          <last-edited>springboot2.0_demo:jar</last-edited>
+          <last-edited>springboot2.0_demo:war exploded2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.2" />
+                <option value="0.25775862" />
                 <option value="0.5" />
               </list>
             </option>

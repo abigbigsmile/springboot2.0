@@ -30,9 +30,6 @@ public class UserControllerTest {
 
     private MockMvc mvc;
 
-    @Value("${color}")
-    private String color;
-
     //初始化MockMvc对象
     @Before
     public void setupMockMvc(){
@@ -61,8 +58,4 @@ public class UserControllerTest {
                 .andDo(print());
     }
 
-    @Test
-    public void testConfig(){
-        System.out.println(color);
-    }
 }
